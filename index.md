@@ -9,7 +9,7 @@ Something profound here.
 
 - [selfie]()
 - [comic]()
-- [Twine]()
+- [Dr. K's Guide to Visual Novel Scholarship](DrKTwine.html)
 - [Chaos mugs]()
 - [Hurricane](Hurricane.html)
 
