@@ -7,8 +7,9 @@ Something profound here.
 
 ## Links to my work
 
-- [selfie] ()
-- [comic] ()
-- [Twine] ()
-- [Chaosmugs] ()
-- [p5.js] ()
+- [selfie]()
+- [comic]()
+- [Twine]()
+- [Chaos mugs]()
+- [Hurricane](Hurricane.html)
+
