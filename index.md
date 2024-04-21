@@ -1,4 +1,4 @@
-# Monica Gonzalez Burgos
+# Mónica Giulianna González Burgos
 
 ## A Reflective Statement
 
