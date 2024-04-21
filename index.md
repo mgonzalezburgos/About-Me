@@ -12,6 +12,7 @@ Something profound here.
 - [Dr. K's Guide to Visual Novel Scholarship](DrKTwine.html)
 - [Mo's Weekly Commute](https://earth.google.com/earth/d/16In1Uq2DPw39IeRcwrNybe2RAg2c2Thu?usp=sharing)
 - [Turnabout Generator](turnaboutgenerator.html)
+- [Analytical Word Cloud on Video Game Localization Paper](pellicerwordcloud.png)
 - [Chaos mugs]()
 - [Hurricane](Hurricane.html)
 
