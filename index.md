@@ -1,6 +1,6 @@
 # Mónica Giulianna González Burgos
 
-## Audio Engineer, Scholar, Lady of Fictional Law People
+## <i>Audio Engineer, Scholar, Lady of Fictional Law People</i>
 
 Something profound here.
 
