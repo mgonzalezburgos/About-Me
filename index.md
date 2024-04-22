@@ -5,7 +5,7 @@
 Something profound here.
 
 
-## Links to my work
+## <I>LINKS TO MY WORK<I>
 
 - [selfie](selfie.jpeg)
 - [GIF for Scholarship](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlsNzkyeGszdzh6OXZpeG82eWVqcjg1MzFreHlubWJuZTl3MnpxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsBqoowJiKWRPsXQaF/giphy.gif)
