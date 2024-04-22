@@ -1,6 +1,6 @@
 # Mónica Giulianna González Burgos
 
-## A Reflective Statement
+## Audio Engineer, Scholar, Lady of Fictional Law People
 
 Something profound here.
 
