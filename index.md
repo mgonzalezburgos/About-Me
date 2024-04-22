@@ -13,6 +13,6 @@ Something profound here.
 - [Mo's Weekly Commute](https://earth.google.com/earth/d/16In1Uq2DPw39IeRcwrNybe2RAg2c2Thu?usp=sharing)
 - [Turnabout Generator](turnaboutgenerator.html)
 - [Analytical Word Cloud on Video Game Localization Paper](pellicerwordcloud.png)
-- [Chaos mugs]()
+- [Chaos mugs made of AI generated crochet patterns next to human made pattern.](chaosmugfamily.jpg)
 - [Hurricane](Hurricane.html)
 - [Visualization Retro Snake Game](snakegame.html)
