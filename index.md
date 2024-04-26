@@ -20,4 +20,4 @@ All jokes aside, despite this course having so many challenges, I can safely say
 - [Chaos Mugs Made of AI Generated Crochet Patterns Next to Human Made Pattern.](chaosmugfamily.jpg)
 - [Hurricane](Hurricane.html)
 - [Visualization Retro Snake Game](snakegame.html)
-- [A Tale of Two Gavins: A Mixed Modes Piece](SuperGavinBros%20FanFicFlipBook.html)
+- [A Tale of Two Gavins: A Mixed Modes Piece](SuperGavinBros20FanFicFlipBook.html)
