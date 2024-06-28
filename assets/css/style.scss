@@ -67,3 +67,10 @@ nav a::before {
     align-items: center; /* Vertically center the content */
     justify-content: center; /* Horizontally center the content */
 }
+
+/* New CSS to remove bullet point from the specific element */
+.title-without-bullet {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
