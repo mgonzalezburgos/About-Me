@@ -6,7 +6,7 @@ Mónica (she/her) is a doctoral student in the Texts & Technology Ph.D. Program 
 
 She holds a Bachelor of Arts from the Universidad del Sagrado Corazón (2017) in San Juan, Puerto Rico, where she majored in Journalism and minoring in Digital Television Production, and a Master of Arts from Syracuse University’s Audio Arts Program (2018). 
 
-Her research interests include visual novels as incidental language learning tools, fan translation and localization practices, L2 considerations in technical writing, sound production, and pop culture theory, especially in the film, literature and gaming industries.
+Mónica's research interests include visual novels as incidental language learning tools, fan translation and localization practices, L2 considerations in technical writing, sound production, and pop culture theory, especially in the film, literature and gaming industries.
 
 
 ## <I>LINKS TO MY WORK<I>
