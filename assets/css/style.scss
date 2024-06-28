@@ -62,4 +62,7 @@ nav a::before {
     overflow: hidden;
     text-overflow: ellipsis;
     text-align: center;
+    display: flex; /* Use flexbox for vertical centering */
+    align-items: center; /* Vertically center the content */
+    justify-content: center; /* Horizontally center the content */
 }
