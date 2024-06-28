@@ -1,4 +1,4 @@
-# <i>Audio Engineer, Scholar, Lady of Fictional Law People</i>
+# # <div class="title-without-bullet"><i>Audio Engineer, Scholar, Lady of Fictional Law People</i></div>
 
 ## About Me
 
