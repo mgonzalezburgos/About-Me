@@ -1,6 +1,6 @@
 # <i>Audio Engineer, Scholar, Lady of Fictional Law People</i>
 
-## About Mon
+## About Mónica
 
 Mónica (she/her) is a doctoral student in the Texts & Technology Ph.D. Program at the University of Central Florida. 
 
