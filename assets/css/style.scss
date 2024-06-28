@@ -36,8 +36,9 @@ aside a.button {
 #main-content h4:before,
 #main-content h5:before,
 #main-content h6:before {
-    color: #6a5acd;
-    content: "-";
+    content: "★ "; /* Unicode representation of a star */
+    color: #6a5acd; /* Color of the star */
+    margin-right: 5px; /* Adjust spacing between the star and text */
 }
 
 #main-content h3,
