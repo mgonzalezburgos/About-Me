@@ -2,7 +2,7 @@
 
 ## <i>Audio Engineer, Scholar, Lady of Fictional Law People</i>
 
-Mónica (she/her) is a doctoral student in the Texts & Technology PhD Program at the University of Central Florida. 
+Mónica (she/her) is a doctoral student in the Texts & Technology Ph.D. Program at the University of Central Florida. 
 
 She holds a Bachelor of Arts from the Universidad del Sagrado Corazón (2017) in San Juan, Puerto Rico, where she majored in Journalism and minoring in Digital Television Production, and a Master of Arts from Syracuse University’s Audio Arts Program (2018). 
 
