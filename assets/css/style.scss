@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.5;
@@ -12,8 +12,8 @@ body {
 header {
     padding-top: 40px;
     padding-bottom: 40px;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: url('{{ 'mixer.jpg' | relative_url }}'; no-repeat , center fixed;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: url('{{ 'mixer.jpg' | relative_url }}') no-repeat center center fixed;
     background-size: cover;
     border-bottom: solid 1px #275da1;
 }
@@ -27,12 +27,12 @@ aside a.button {
     background: #add8e6;
 }
 
-#main-content h1::before,
-#main-content h2::before,
-#main-content h3::before,
-#main-content h4::before,
-#main-content h5::before,
-#main-content h6::before {
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before {
     content: "★ "; /* Unicode representation of a star */
     color: #6a5acd; /* Color of the star */
     margin-right: 5px; /* Adjust spacing between the star and text */
@@ -51,7 +51,7 @@ nav a::before {
 #breadcrumb {
     margin-bottom: 20px;
     font-size: 0.9em;
-}
+  }
 
 #sidebar .button {
     padding: 5px 10px;
